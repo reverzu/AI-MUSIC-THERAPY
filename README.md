@@ -1,2 +1,2 @@
 # AI-MUSIC-THERAPY
-Shankara Global Hackathon PS 2024
+Shankara Global Hackathon Project 2024
